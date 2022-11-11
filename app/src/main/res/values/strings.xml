@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Aplicacion3</string>
+    <string name="elige_una_opci_n">Elige una opción:</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="rojo">Rojo</string>
+    <string name="azul">Azul</string>
+    <string name="elige">Elige:</string>
+    <string name="boton">Boton</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="togglebutton">ToggleButton</string>
 </resources>
